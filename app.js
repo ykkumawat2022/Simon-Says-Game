@@ -17,7 +17,7 @@ let userSeq = [];
             gameSeq = [];
             userSeq = [];
         }
-       startBtn.innerText = "Restart";
+      // startBtn.innerText = "Restart";
         
     })
 
