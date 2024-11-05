@@ -1,0 +1,43 @@
+.box{
+    margin: 0 auto;
+    
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box div{
+    height: 100px;
+    width: 100px;
+    
+    margin: 22px;
+    border-radius: 5px;
+    border: 2px solid black;
+   
+}
+
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color:pink;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+h1,h2{
+    text-align: center;
+}
+.flesh{
+    background-color: aliceblue;
+}
+button{
+    display: flex;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 1rem;
+}
