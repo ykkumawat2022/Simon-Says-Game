@@ -15,5 +15,6 @@ Each level adds a new color to the sequence. If you break the sequence, the game
 - CSS
 - JavaScript
 ## Game Link 
+https://ykkumawat2022.github.io/Simon-Says-Game/
 
 Enjoy the game!
